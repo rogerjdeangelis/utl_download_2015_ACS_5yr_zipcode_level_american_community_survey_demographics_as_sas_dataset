@@ -2,6 +2,9 @@
 Download 2015 ACS 5yr zipcode level American Community Survey demographic as sas dataset.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
 
     Download 2015 ACS 5yr zipcode level American Community Survey demographic as sas dataset
+    
+    new link to U of Missouri 2018 5yr ACS ZCTA data for entire us 
+    http://mcdc.missouri.edu/data/acs2018/
 
     Zipcode dataset (all numeric variables = 100*round(variable,1) )
     Miniscule file, 61mb, but github only allows mico miniscule files(<25mb)
